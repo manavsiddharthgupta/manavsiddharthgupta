@@ -1,5 +1,5 @@
 #  Manav Gupta
-I'm Manav Gupta from India , currently i am a student of software engineer. I do open source project . I’m currently learning Android Development| DSA | Microsoft Azure | Oops .
+I'm Manav Gupta from India , currently i am a student of Computer Science Engineer. I do open source project . I’m currently learning Android Development| DSA | Microsoft Azure | Oops .
 
 ## Skills:
 * 🖥️ C++/ #C / Java
