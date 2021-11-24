@@ -34,3 +34,6 @@ I'm Manav Gupta from India , currently i am a student of Computer Science Engine
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manavsiddharthgupta&show_icons=true&locale=en&layout=compact" alt="manavsiddharthgupta" /></p>
 <h3 align="center">"A passionate frontend developer from India"</h3>
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manavsiddharthgupta)  
