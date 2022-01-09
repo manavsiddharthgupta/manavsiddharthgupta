@@ -20,9 +20,6 @@
 <a href="https://twitter.com/manavgupta03" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="twitter" height="30" width="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
 
-### Stats:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavsiddharthgupta" alt="manavsiddharthgupta" /></a> </p>
-
 ### Languages and Tools:
 <p> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
