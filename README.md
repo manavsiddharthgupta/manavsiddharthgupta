@@ -1,7 +1,7 @@
 ## About me:
 <strong>Hey👋,I'm Manav Gupta</strong> from India , currently i am a student of Computer Science Engineer. I do open source project .
 
-## Skills:
+### Skills:
 * 🖥️ C++ | #C | Java | html | Css | React | Java Script
 * 📱 Android Development
 * ⌨️ Data Structure & Algorithm
