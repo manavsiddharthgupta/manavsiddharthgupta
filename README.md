@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manavgupta14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavgupta14" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/siddharth_manav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddharth_manav" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dev.to/manavgupta03" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="manav_gupta" height="30" width="40" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/manavgupta03" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="twitter" height="30" width="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/manavgupta14" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavgupta14" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/siddharth_manav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddharth_manav" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dev.to/manavgupta03" target="_blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="manav_gupta" height="30" width="40" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/manavgupta03" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="twitter" height="30" width="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
 
 ### Languages and Tools:
