@@ -8,7 +8,7 @@
 * 💻 Web Development 
 
 ### Status:
-- 🔭 I’m currently working on  Microsoft Virtual Internship | Android development project | Open source project 
+- 🔭 I’m currently working on Android development project | Open source project 
 - 🌱 I’m currently learning Android development | Java | DSA | Web Development
 
 
