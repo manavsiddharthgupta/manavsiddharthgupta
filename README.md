@@ -3,12 +3,9 @@
 
 ### Skills:
 * 🖥️ C++ | Java | html | Css | React | Java Script
-* 📱 Android Development
-* ⌨️ Data Structure & Algorithm
-* 💻 Web Development 
+* ⌨️ Data Structure & Algorithm 
 
 ### Status:
-- 🔭 I’m currently working on Android development project | Open source project 
 - 🌱 I’m currently learning Android development | Java | DSA | Web Development
 
 
