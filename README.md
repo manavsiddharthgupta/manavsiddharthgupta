@@ -1,17 +1,19 @@
 ## About me:
 <strong>Hey👋,I'm Manav Gupta</strong> from India , currently i am a student of Computer Engineer Student. I do open source .
-
+<br><br><br>
+<img align="right" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="gif" width="280" height="250"/> 
 ### Skills:
-* 🖥️ C++ | Java | html | Css | React | Java Script
+* 🖥️ C++ | Java | html | Css | React | Java Script | Azure | Node |
 * ⌨️ Data Structure & Algorithm 
+<br>
 
-<img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="gif" width="280" height="250"/> 
+
 
 
 ### Status:
 - 🌱 I’m currently learning Android development | Java | DSA | Web Development
-
-
+<br> <br><br>
+<div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manavgupta14" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavgupta14" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,7 +22,10 @@
 <a href="https://twitter.com/manavgupta03" target="_blank"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="twitter" height="30" width="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://manavsiddharthgupta.github.io/manavgupta.github.io/" target="_blank"><img align="centre" src="https://seeklogo.com/images/A/adobe-portfolio-logo-BD502F658C-seeklogo.com.png" alt="mypic" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
+<img align="right" src="https://user-images.githubusercontent.com/79929708/150989888-3902d909-dc17-4124-890f-a3e1cb1bf159.gif" alt="gif" width="280" height="250"/>
+  </div>
 
+<br><br>
 ### Languages and Tools:
 <p> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,6 +39,7 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="azure" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="azure" width="40" height="40"/> </a>
 </p>
+<br><br>
 
 ### Languages Used:
 
