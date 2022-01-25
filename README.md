@@ -5,6 +5,9 @@
 * 🖥️ C++ | Java | html | Css | React | Java Script
 * ⌨️ Data Structure & Algorithm 
 
+<img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="gif" width="280" height="250"/> 
+
+
 ### Status:
 - 🌱 I’m currently learning Android development | Java | DSA | Web Development
 
