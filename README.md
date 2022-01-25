@@ -36,6 +36,7 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="azure" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="azure" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="azure" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="azure" width="40" height="40"/> </a>
 </p>
