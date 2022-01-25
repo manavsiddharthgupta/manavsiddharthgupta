@@ -3,7 +3,7 @@
 <br><br><br>
 <img align="right" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="gif" width="280" height="250"/> 
 ### Skills:
-* 🖥️ C++ | Java | html | Css | React | Java Script | Azure | Node |
+* 🖥️ C++ | Java | html | Css | React | Java Script | Azure | Node | Typescript
 * ⌨️ Data Structure & Algorithm 
 <br>
 
