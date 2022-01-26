@@ -40,7 +40,8 @@
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="azure" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
  
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="azure" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="azure" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="azure" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://getbootstrap.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/79929708/151155862-81362477-73d1-447c-890b-d033e73955fd.png" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 <br><br>
 
