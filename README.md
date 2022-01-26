@@ -8,7 +8,7 @@
 <br>
 
 ### Work Experience:
- Microsoft Future Ready Talent Internship             Oct'21-Jan'22 
+ <p> Microsoft Future Ready Talent Internship  &nbsp;&nbsp;&nbsp;&nbsp; Oct'21-Jan'22 </p>
 
 <br>
 
@@ -41,7 +41,16 @@
  
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="azure" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="azure" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://getbootstrap.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/79929708/151155862-81362477-73d1-447c-890b-d033e73955fd.png" alt="bootstrap" width="40" height="40"/> </a>
+ <a href="https://getbootstrap.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/79929708/151155862-81362477-73d1-447c-890b-d033e73955fd.png" alt="bootstrap" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://nodejs.org/en/" target="_blank"> <img src="https://user-images.githubusercontent.com/79929708/151156724-a233fa2f-e318-4563-961c-0b24c39cb227.png" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://docs.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/79929708/151157466-9c3bdafe-8169-4a2d-9dda-34600389fc84.png" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.docker.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/79929708/151158795-c465a4a3-47c0-4e7e-92e6-3cac1e262e0b.png" alt="docker" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://kubernetes.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/79929708/151159121-0cac0021-ae32-4b29-bc42-84fd18a83944.png" alt="docker" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://go.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/79929708/151159725-19a9d0b2-6eb7-4fc0-94e3-b126ba3a6918.png" alt="docker" width="40" height="40"/> </a>
+ 
+ 
+
+
 </p>
 <br><br>
 
