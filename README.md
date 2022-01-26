@@ -7,8 +7,10 @@
 * ⌨️ Data Structure & Algorithm 
 <br>
 
+### Work Experience:
+ Microsoft Future Ready Talent Internship             Oct'21-Jan'22 
 
-
+<br>
 
 ### Status:
 - 🌱 I’m currently learning Android development | Java | DSA | Web Development
