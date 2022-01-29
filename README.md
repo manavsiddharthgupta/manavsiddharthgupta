@@ -8,7 +8,7 @@
 <br>
 
 ### Work Experience:
-   <li>   Microsoft Future Ready Talent Internship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oct'21-Jan'22 </li>
+   <li>   Microsoft Future Ready Talent Internship  ( aug'21  -  jan'22 )</li>
 
 <br>
 
