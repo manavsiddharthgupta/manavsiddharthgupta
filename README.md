@@ -1,11 +1,14 @@
 ## About me:
 <strong>Hey👋,I'm Manav Gupta</strong> from India , currently i am a student of Computer Engineer Student. I do open source .
-<br><br><br>
-<img align="right" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="gif" width="280" height="250"/> 
+<br><br>
+<img align="center" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="gif" width="630" height="350"/> 
+<br><br>
+
 ### Skills:
 * 🖥️ C++ | Java | html | Css | React | Java Script | Azure | Node | Typescript
 * ⌨️ Data Structure & Algorithm 
 <br>
+
 
 ### Work Experience:
    <li>   Microsoft Future Ready Talent Internship &nbsp;&nbsp; ( aug'21  -  jan'22 )</li>
