@@ -10,7 +10,8 @@
 <p align="left">
 <a href="https://twitter.com/@manavgupta03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@manavgupta03" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/manavgupta14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavgupta14" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/siddharth_manav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddharth_manav" height="30" width="40" /></a>
+<a href="https://instagram.com/siddharth_manav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddharth_manav" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.showwcase.com/manavgupta03" target="blank"><img align="center" src="https://user-images.githubusercontent.com/79929708/154510465-02671c85-fb11-4051-b21a-c5f396ddaf50.png" alt="siddharth_manav" height="30" width="40" /></a>
 </p>
 
 ### Skills
