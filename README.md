@@ -1,5 +1,5 @@
 ## About me:
-<strong>Hey   <img align="center" width="40px" height="40px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" style="max-width: 100%;">  , I'm Manav Gupta</strong> from India , currently i am a student of Computer Engineer Student and I do open source.
+<strong>Hey   <img align="center" width="40px" height="40px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" style="max-width: 100%;">  , I'm <a href = "https://manavgupta.netlify.app/">Manav Gupta</a></strong> from India , currently i am a student of Computer Engineer Student and I do open source.
 <br><br>
 <img align="center" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="gif" width="550" height="380"/> 
 <br><br>
