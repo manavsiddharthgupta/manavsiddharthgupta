@@ -1,10 +1,17 @@
 ## About me:
-<strong>Hey   <img align="center" width="40px" height="40px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" style="max-width: 100%;">  , I'm <a href = "https://manavgupta.netlify.app/">Manav Gupta</a></strong> from India , currently i am a student of Computer Engineer Student and I do open source.
-<br><br>
-<img align="center" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="gif" width="550" height="380"/> 
-<br><br>
 
-<img align="right" alt="GIF" height="190px" src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" data-canonical-src="https://octodex.github.com/images/daftpunktocat-guy.gif" style="max-width: 100%;">
+<strong> Hey there <img align="center" width="40px" height="40px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" style="max-width: 100%;"> </strong>
+
+<img align="right" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="gif" width="550" height="380"/> 
+
+Hi, I'm <a href = "https://manavgupta.netlify.app/">Manav Gupta</a> from India , currently i am a sophomore year Student @Kiit. A passionate engineering undergraduate with undying attachment to technology and a skilled Software engineer with main area of expertise in web development. I 'm also a open source enthusiast.
+<br>
+
+### I'm Familiar with
+* 🖥️ Full-Stack
+* 🧑‍💻 Dev-ops
+* 📱 Android Developer
+* ⌨️ Data Structure & Algorithm 
 
 ### Connect With Me
 <p align="left">
@@ -14,10 +21,12 @@
 <a href="https://manavgupta.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/79929708/160225657-a63e1c5c-0f12-4c93-b007-cfcaf608acce.png" alt="siddharth_manav" height="30" width="30" /></a>
 </p>
 
-### Skills
-* 🖥️ Front - end 
-* 📱 Android Developer
-* ⌨️ Data Structure & Algorithm 
+
+<br>
+<hr>
+
+<img align="right" alt="GIF" height="190px" src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" data-canonical-src="https://octodex.github.com/images/daftpunktocat-guy.gif" style="max-width: 100%;">
+
 
 
 ### Languages and Tools
@@ -31,7 +40,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWind" data-canonical-src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="max-width: 100%; height: 20px"></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://kubernetes.io/"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"  height=20; style="max-width: 100%;"></a> <br>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8b76dad952a5f01b227f0fc83168009e115d7a0c5f9eca6ea918d6ae4e71b8ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074"><img src="https://camo.githubusercontent.com/8b76dad952a5f01b227f0fc83168009e115d7a0c5f9eca6ea918d6ae4e71b8ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&amp;logo=typescript" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="My Sql" data-canonical-src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb" style="max-width: 100%; height=15px"></a>
+<!-- <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="My Sql" data-canonical-src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb" style="max-width: 100%; height=15px"></a> -->
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ca156fae6f17c9d7cafb8405da6793562780d051199be9460fc52d0f46ce7cdd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572"><img src="https://camo.githubusercontent.com/ca156fae6f17c9d7cafb8405da6793562780d051199be9460fc52d0f46ce7cdd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572" alt="Docker" data-canonical-src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2d89caac47bcc08f8edb7b2b44fd6b5a182272764367e2807c48108743551568/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230417a7572652d3233324637453f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d617a757265"><img src="https://camo.githubusercontent.com/2d89caac47bcc08f8edb7b2b44fd6b5a182272764367e2807c48108743551568/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230417a7572652d3233324637453f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d617a757265" alt="Microsoft Azure" data-canonical-src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&amp;logo=microsoft-azure" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974"><img src="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git" style="max-width: 100%;"></a>
@@ -40,9 +49,13 @@
 <a target="_blank" rel="noopener noreferrer" href="https://developer.android.com/studio?gclid=Cj0KCQiAr5iQBhCsARIsAPcwROMMcEoWq6l6-C3MuqzeM4JOJUOjmj85qhQPBaXDvhyVNH8wI2W8pK8aAiFuEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio"  height=20; style="max-width: 100%;"></a>
 <br>
 <br>
+
   
+### GitHub stats
   
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=manavsiddharthgupta&show_icons=true&theme=prussian)
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/manavsiddharthgupta?cardType=level&theme=react)](https://git.io/awesome-stats-card)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manavsiddharthgupta&theme=solarized_dark)
 
 <br>
 
