@@ -4,12 +4,6 @@
 
 <img align="right" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="gif" width="550" height="380"/> 
 
-Hi, I'm <a href = "https://manavgupta.netlify.app/">Manav Gupta</a> from India , currently i am a 3rd year Student @Kiit. A passionate engineering undergraduate with undying attachment to technology and a skilled Software engineer with main area of expertise in web development. I 'm also a open source enthusiast.
-<br>
-
-### I'm Familiar with
-* 🖥️ Full-Stack
-* ⌨️ Data Structure & Algorithm 
 
 ### Connect With Me
 <p align="left">
